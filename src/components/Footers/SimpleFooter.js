@@ -48,7 +48,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href="https://www.linkedin.com/in/eslam-akram/"
                   id="tooltip475038074"
                   target="_blank"
                 >
@@ -62,7 +62,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.linkedin.com/in/eslam-akram/"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -76,7 +76,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://www.linkedin.com/in/eslam-akram/"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/eslamakram"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -109,10 +109,10 @@ class SimpleFooter extends React.Component {
                 <div className=" copyright">
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
+                    href="https://www.linkedin.com/in/eslam-akram/"
                     target="_blank"
                   >
-                    Creative Tim
+                    Eslam Tweikat
                   </a>
                   .
                 </div>
@@ -121,15 +121,15 @@ class SimpleFooter extends React.Component {
                 <Nav className=" nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
+                      href="https://www.linkedin.com/in/eslam-akram/"
                       target="_blank"
                     >
-                      Creative Tim
+                    Eslam Tweikat
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://www.linkedin.com/in/eslam-akram/"
                       target="_blank"
                     >
                       About Us
@@ -137,7 +137,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="http://blog.creative-tim.com?ref=adsr-footer"
+                      href="https://www.linkedin.com/in/eslam-akram/"
                       target="_blank"
                     >
                       Blog
